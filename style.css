@@ -1,0 +1,26 @@
+.text span {
+    text-decoration: line-through;
+  }
+  .text {
+    text-indent: 100px;
+    line-height: 1.7; 
+  }
+  .link {
+    text-shadow: 2px 2px 4px red;
+  }
+.post-title {
+    text-align: center;
+  }
+  .post-text:first-of-type {
+    text-align: right;
+    white-space: pre-wrap;
+  }
+  .post-text:last-of-type {
+    text-align: justify;
+    font-variant-ligatures: none; 
+  }
+  .post-text {
+    font-family: "Times New Roman", serif; 
+    font-size: 18px;
+    color: #333; 
+  }
