@@ -16,8 +16,10 @@ span {
   text-align: center;
 }
 
-.post-text {
+.root {
   font-family: 'Unna', serif;
+}
+.post-text {
   font-size: 20px;
   color: #F67103;
   font-weight: bold
